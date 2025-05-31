@@ -21,7 +21,7 @@ img{
 .row{
   display: flex;
   gap: 30px;
-  margin-block: 50px;
+  margin-block: 100px;
 }
 main{
   padding: 30px;
